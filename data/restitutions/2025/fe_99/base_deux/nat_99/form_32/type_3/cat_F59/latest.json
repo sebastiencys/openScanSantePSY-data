@@ -1,0 +1,76 @@
+{
+  "site_updated_at": "2026-02-19",
+  "extracted_at": "2026-03-07 18:23:50",
+  "search_context": {
+    "annee": "2025",
+    "tgeo": "fe",
+    "codegeo": "99",
+    "base": "deux",
+    "nat_pec": "99",
+    "form_act": "32",
+    "type_diag": "3",
+    "cat_diag": "F59"
+  },
+  "data": [
+    {
+      "finess": "590034740",
+      "raison_sociale": "EPSM AGGLOMERATION LILLOISE LOMMELET",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "32",
+      "sexe_ratio": "62.5%",
+      "age_moyen": "27.38",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "750062036",
+      "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
+      "categorie": "CH",
+      "periode": "M11",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "17",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "850000092",
+      "raison_sociale": "CH GEORGES MAZURELLE",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "100%",
+      "age_moyen": "12.63",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "910140029",
+      "raison_sociale": "EPS BARTHELEMY DURAND",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "22",
+      "sexe_ratio": "0%",
+      "age_moyen": "16",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "930140025",
+      "raison_sociale": "EPS VILLE-EVRARD",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "45",
+      "sexe_ratio": "93.3%",
+      "age_moyen": "15.11",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "Total",
+      "raison_sociale": "Total",
+      "categorie": "Total",
+      "periode": "Total",
+      "nb_actes_ambulatoires": "109",
+      "sexe_ratio": "64.2%",
+      "age_moyen": "18.74",
+      "nb_patients": "14"
+    }
+  ]
+}

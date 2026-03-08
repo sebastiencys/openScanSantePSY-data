@@ -1,0 +1,86 @@
+{
+  "site_updated_at": "2026-02-19",
+  "extracted_at": "2026-03-07 19:35:19",
+  "search_context": {
+    "annee": "2025",
+    "tgeo": "fe",
+    "codegeo": "99",
+    "base": "deux",
+    "nat_pec": "92",
+    "form_act": "32",
+    "type_diag": "2",
+    "cat_diag": "F04"
+  },
+  "data": [
+    {
+      "finess": "120780283",
+      "raison_sociale": "CH SAINTE-MARIE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "30",
+      "sexe_ratio": "100%",
+      "age_moyen": "51.63",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "260003264",
+      "raison_sociale": "CH DROME-VIVARAIS",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "17",
+      "sexe_ratio": "100%",
+      "age_moyen": "59",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "370000564",
+      "raison_sociale": "CHIC AMBOISE- CHATEAU RENAULT",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "26",
+      "sexe_ratio": "100%",
+      "age_moyen": "66.92",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "570000141",
+      "raison_sociale": "CHS SARREGUEMINES",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "22",
+      "sexe_ratio": "0%",
+      "age_moyen": "63.95",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "580780971",
+      "raison_sociale": "CH PIERRE LÔO",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "21",
+      "sexe_ratio": "0%",
+      "age_moyen": "65.05",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "750062036",
+      "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
+      "categorie": "CH",
+      "periode": "M11",
+      "nb_actes_ambulatoires": "134",
+      "sexe_ratio": "0%",
+      "age_moyen": "81.87",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "Total",
+      "raison_sociale": "Total",
+      "categorie": "Total",
+      "periode": "Total",
+      "nb_actes_ambulatoires": "250",
+      "sexe_ratio": "29.2%",
+      "age_moyen": "72.14",
+      "nb_patients": "1 à 10"
+    }
+  ]
+}
