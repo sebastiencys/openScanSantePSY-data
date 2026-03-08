@@ -1,0 +1,973 @@
+{
+  "finess": "510025703",
+  "raison_sociale": "CENTRE PSYPRO REIMS",
+  "geo": {
+    "raison_sociale": "CENTRE PSYPRO REIMS",
+    "categorie": "PRIVÉ",
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "51",
+    "dep_name": "MARNE"
+  },
+  "site_updated_at": "2026-02-19",
+  "periodes": {
+    "2025-12": {
+      "deux": {
+        "91": {
+          "1": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6260",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "411",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "23.4%",
+              "age_moyen": "48.59",
+              "nb_patients": "389"
+            },
+            "F33": {
+              "nb_journees": "1810",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "128",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "14.5%",
+              "age_moyen": "53.02",
+              "nb_patients": "115"
+            },
+            "F34": {
+              "nb_journees": "273",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "6.6%",
+              "age_moyen": "51.9",
+              "nb_patients": "20"
+            },
+            "F40": {
+              "nb_journees": "262",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "16.2%",
+              "age_moyen": "42.44",
+              "nb_patients": "20"
+            },
+            "F41": {
+              "nb_journees": "459",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "42",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "28.9%",
+              "age_moyen": "42.79",
+              "nb_patients": "41"
+            },
+            "F42": {
+              "nb_journees": "242",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "31.1%",
+              "age_moyen": "44.6",
+              "nb_patients": "14"
+            },
+            "F43": {
+              "nb_journees": "5667",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "388",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.19",
+              "nb_patients": "353"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "370",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.2%",
+              "age_moyen": "49.35",
+              "nb_patients": "326"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6162",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "405",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "23.5%",
+              "age_moyen": "48.59",
+              "nb_patients": "383"
+            },
+            "F33": {
+              "nb_journees": "1785",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "126",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "14.4%",
+              "age_moyen": "53.01",
+              "nb_patients": "113"
+            },
+            "F34": {
+              "nb_journees": "203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "14",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "5.4%",
+              "age_moyen": "53.62",
+              "nb_patients": "14"
+            },
+            "F41": {
+              "nb_journees": "141",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.7%",
+              "age_moyen": "45.4",
+              "nb_patients": "16"
+            },
+            "F43": {
+              "nb_journees": "529",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "43",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25%",
+              "age_moyen": "46.12",
+              "nb_patients": "41"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F40": {
+              "nb_journees": "208",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "15",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "9.6%",
+              "age_moyen": "46.46",
+              "nb_patients": "15"
+            },
+            "F41": {
+              "nb_journees": "337",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "27",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "31.9%",
+              "age_moyen": "40.73",
+              "nb_patients": "27"
+            },
+            "F42": {
+              "nb_journees": "212",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "12",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27.8%",
+              "age_moyen": "42.82",
+              "nb_patients": "11"
+            },
+            "F43": {
+              "nb_journees": "5149",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "346",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.45",
+              "nb_patients": "313"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5120",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "364",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.6%",
+              "age_moyen": "49.39",
+              "nb_patients": "322"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          }
+        },
+        "94": {
+          "1": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6260",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "411",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "23.4%",
+              "age_moyen": "48.59",
+              "nb_patients": "389"
+            },
+            "F33": {
+              "nb_journees": "1810",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "128",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "14.5%",
+              "age_moyen": "53.02",
+              "nb_patients": "115"
+            },
+            "F34": {
+              "nb_journees": "273",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "6.6%",
+              "age_moyen": "51.9",
+              "nb_patients": "20"
+            },
+            "F40": {
+              "nb_journees": "262",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "16.2%",
+              "age_moyen": "42.44",
+              "nb_patients": "20"
+            },
+            "F41": {
+              "nb_journees": "459",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "42",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "28.9%",
+              "age_moyen": "42.79",
+              "nb_patients": "41"
+            },
+            "F42": {
+              "nb_journees": "242",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "31.1%",
+              "age_moyen": "44.6",
+              "nb_patients": "14"
+            },
+            "F43": {
+              "nb_journees": "5667",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "388",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.19",
+              "nb_patients": "353"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "370",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.2%",
+              "age_moyen": "49.35",
+              "nb_patients": "326"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6162",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "405",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "23.5%",
+              "age_moyen": "48.59",
+              "nb_patients": "383"
+            },
+            "F33": {
+              "nb_journees": "1785",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "126",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "14.4%",
+              "age_moyen": "53.01",
+              "nb_patients": "113"
+            },
+            "F34": {
+              "nb_journees": "203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "14",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "5.4%",
+              "age_moyen": "53.62",
+              "nb_patients": "14"
+            },
+            "F41": {
+              "nb_journees": "141",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.7%",
+              "age_moyen": "45.4",
+              "nb_patients": "16"
+            },
+            "F43": {
+              "nb_journees": "529",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "43",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25%",
+              "age_moyen": "46.12",
+              "nb_patients": "41"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F40": {
+              "nb_journees": "208",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "15",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "9.6%",
+              "age_moyen": "46.46",
+              "nb_patients": "15"
+            },
+            "F41": {
+              "nb_journees": "337",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "27",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "31.9%",
+              "age_moyen": "40.73",
+              "nb_patients": "27"
+            },
+            "F42": {
+              "nb_journees": "212",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "12",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "27.8%",
+              "age_moyen": "42.82",
+              "nb_patients": "11"
+            },
+            "F43": {
+              "nb_journees": "5149",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "346",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.45",
+              "nb_patients": "313"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5120",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "364",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "24.6%",
+              "age_moyen": "49.39",
+              "nb_patients": "322"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          }
+        },
+        "99": {
+          "1": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6260",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "411",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "23.4%",
+              "age_moyen": "48.59",
+              "nb_patients": "389"
+            },
+            "F33": {
+              "nb_journees": "1810",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "128",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "14.5%",
+              "age_moyen": "53.02",
+              "nb_patients": "115"
+            },
+            "F34": {
+              "nb_journees": "273",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "6.6%",
+              "age_moyen": "51.9",
+              "nb_patients": "20"
+            },
+            "F40": {
+              "nb_journees": "262",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "20",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "16.2%",
+              "age_moyen": "42.44",
+              "nb_patients": "20"
+            },
+            "F41": {
+              "nb_journees": "459",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "42",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "28.9%",
+              "age_moyen": "42.79",
+              "nb_patients": "41"
+            },
+            "F42": {
+              "nb_journees": "242",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "31.1%",
+              "age_moyen": "44.6",
+              "nb_patients": "14"
+            },
+            "F43": {
+              "nb_journees": "5667",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "388",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.19",
+              "nb_patients": "353"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "370",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "24.2%",
+              "age_moyen": "49.35",
+              "nb_patients": "326"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F31": {
+              "nb_journees": "696",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "49",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "27%",
+              "age_moyen": "54.63",
+              "nb_patients": "42"
+            },
+            "F32": {
+              "nb_journees": "6162",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "405",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "23.5%",
+              "age_moyen": "48.59",
+              "nb_patients": "383"
+            },
+            "F33": {
+              "nb_journees": "1785",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "126",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "14.4%",
+              "age_moyen": "53.01",
+              "nb_patients": "113"
+            },
+            "F34": {
+              "nb_journees": "203",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "14",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "5.4%",
+              "age_moyen": "53.62",
+              "nb_patients": "14"
+            },
+            "F41": {
+              "nb_journees": "141",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "16",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "17.7%",
+              "age_moyen": "45.4",
+              "nb_patients": "16"
+            },
+            "F43": {
+              "nb_journees": "529",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "43",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "25%",
+              "age_moyen": "46.12",
+              "nb_patients": "41"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "9798",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "675",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "22%",
+              "age_moyen": "49.69",
+              "nb_patients": "611"
+            },
+            "F10": {
+              "nb_journees": "350",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "17",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "33.3%",
+              "age_moyen": "54.68",
+              "nb_patients": "16"
+            },
+            "F17": {
+              "nb_journees": "137",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "11",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "53.3%",
+              "age_moyen": "48.8",
+              "nb_patients": "1 à 10"
+            },
+            "F40": {
+              "nb_journees": "208",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "15",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "9.6%",
+              "age_moyen": "46.46",
+              "nb_patients": "15"
+            },
+            "F41": {
+              "nb_journees": "337",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "27",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "31.9%",
+              "age_moyen": "40.73",
+              "nb_patients": "27"
+            },
+            "F42": {
+              "nb_journees": "212",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "12",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "27.8%",
+              "age_moyen": "42.82",
+              "nb_patients": "11"
+            },
+            "F43": {
+              "nb_journees": "5149",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "346",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "25.5%",
+              "age_moyen": "49.45",
+              "nb_patients": "313"
+            },
+            "F50": {
+              "nb_journees": "135",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "13",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "24.1%",
+              "age_moyen": "42.9",
+              "nb_patients": "11"
+            },
+            "F60": {
+              "nb_journees": "5120",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "364",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "24.6%",
+              "age_moyen": "49.39",
+              "nb_patients": "322"
+            },
+            "SOM": {
+              "nb_journees": "2725",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "167",
+              "nb_actes_ambulatoires": "0",
+              "sexe_ratio": "17.9%",
+              "age_moyen": "49.16",
+              "nb_patients": "162"
+            }
+          }
+        }
+      }
+    }
+  }
+}
