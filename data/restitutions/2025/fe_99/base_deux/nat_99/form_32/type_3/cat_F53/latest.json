@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 18:23:40",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:31:07",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -243,6 +243,16 @@
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "690780119",
+      "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "37",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "720000058",
       "raison_sociale": "EPSM DE LA SARTHE",
       "categorie": "CH",
@@ -336,7 +346,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "29",
@@ -347,10 +357,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "1028",
+      "nb_actes_ambulatoires": "1033",
       "sexe_ratio": "0.1%",
-      "age_moyen": "30.65",
-      "nb_patients": "67"
+      "age_moyen": "30.69",
+      "nb_patients": "68"
     }
   ]
 }

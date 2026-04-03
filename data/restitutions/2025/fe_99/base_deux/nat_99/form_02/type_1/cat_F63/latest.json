@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 21:06:51",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 19:13:28",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "030780092",
       "raison_sociale": "CH MOULINS YZEURE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -37,6 +37,20 @@
       "nb_sejours": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "55",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "440000263",
+      "raison_sociale": "CHS BLAIN",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "100%",
+      "age_moyen": "25",
       "nb_patients": "1 à 10",
       "nb_actes_ambulatoires": null
     },
@@ -72,7 +86,7 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -91,8 +105,8 @@
       "avq_physique": "NA",
       "avq_relationnel": "NA",
       "nb_sejours": "1 à 10",
-      "sexe_ratio": "30.8%",
-      "age_moyen": "42.46",
+      "sexe_ratio": "41.9%",
+      "age_moyen": "39.65",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

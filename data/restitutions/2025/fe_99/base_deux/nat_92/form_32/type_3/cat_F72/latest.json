@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 23:49:19",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 04:59:26",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -86,10 +86,10 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "75",
-      "sexe_ratio": "100%",
-      "age_moyen": "6.17",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "149",
+      "sexe_ratio": "98.7%",
+      "age_moyen": "6",
       "nb_patients": "1 à 10"
     },
     {
@@ -176,7 +176,7 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -196,7 +196,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -224,7 +224,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "38",
@@ -247,10 +247,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "983",
-      "sexe_ratio": "69.4%",
-      "age_moyen": "33.49",
-      "nb_patients": "51"
+      "nb_actes_ambulatoires": "1057",
+      "sexe_ratio": "71.3%",
+      "age_moyen": "31.55",
+      "nb_patients": "52"
     }
   ]
 }

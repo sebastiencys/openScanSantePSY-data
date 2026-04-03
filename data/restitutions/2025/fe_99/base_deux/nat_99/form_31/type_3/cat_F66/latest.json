@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 18:17:39",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:26:12",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -246,10 +246,10 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
-      "age_moyen": "35.67",
+      "age_moyen": "39.4",
       "nb_patients": "1 à 10"
     },
     {
@@ -396,10 +396,10 @@
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
-      "age_moyen": "51.67",
+      "age_moyen": "51.7",
       "nb_patients": "1 à 10"
     },
     {
@@ -466,7 +466,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "96",
       "sexe_ratio": "82.3%",
       "age_moyen": "38.39",
@@ -486,7 +486,7 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "50%",
       "age_moyen": "19",
@@ -504,7 +504,7 @@
     },
     {
       "finess": "760780288",
-      "raison_sociale": "HÔPITAL PRIVÉ DE JOUR MGEN",
+      "raison_sociale": "VYV3 NORMANDIE",
       "categorie": "PSPH/EBNL",
       "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
@@ -574,7 +574,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
@@ -586,7 +586,7 @@
       "finess": "920140027",
       "raison_sociale": "CLINIQUE FSEF SCEAUX",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "18",
@@ -596,10 +596,10 @@
       "finess": "930110051",
       "raison_sociale": "CH DE ST DENIS",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "14",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "23",
       "sexe_ratio": "0%",
-      "age_moyen": "32.43",
+      "age_moyen": "33.91",
       "nb_patients": "1 à 10"
     },
     {
@@ -616,7 +616,7 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "42",
@@ -626,10 +626,10 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "106",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "122",
       "sexe_ratio": "0%",
-      "age_moyen": "21.36",
+      "age_moyen": "21.44",
       "nb_patients": "1 à 10"
     },
     {
@@ -647,10 +647,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "1517",
-      "sexe_ratio": "76.4%",
-      "age_moyen": "40.29",
-      "nb_patients": "143"
+      "nb_actes_ambulatoires": "1544",
+      "sexe_ratio": "75.1%",
+      "age_moyen": "40.11",
+      "nb_patients": "145"
     }
   ]
 }

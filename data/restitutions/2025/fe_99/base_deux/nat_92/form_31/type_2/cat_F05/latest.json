@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 19:28:34",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 06:20:42",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -46,7 +46,7 @@
       "finess": "030780092",
       "raison_sociale": "CH MOULINS YZEURE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -356,7 +356,7 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -576,7 +576,7 @@
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -653,16 +653,6 @@
       "nb_patients": "1 à 10"
     },
     {
-      "finess": "690780119",
-      "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
-      "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "21",
-      "sexe_ratio": "100%",
-      "age_moyen": "58.43",
-      "nb_patients": "1 à 10"
-    },
-    {
       "finess": "690780143",
       "raison_sociale": "CH SAINT JEAN DE DIEU",
       "categorie": "PSPH/EBNL",
@@ -706,11 +696,11 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "101",
-      "sexe_ratio": "77.2%",
-      "age_moyen": "49.96",
-      "nb_patients": "31"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "106",
+      "sexe_ratio": "73.6%",
+      "age_moyen": "49.2",
+      "nb_patients": "33"
     },
     {
       "finess": "750150104",
@@ -726,11 +716,11 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "704",
-      "sexe_ratio": "49%",
-      "age_moyen": "59.21",
-      "nb_patients": "229"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "761",
+      "sexe_ratio": "47.6%",
+      "age_moyen": "59.52",
+      "nb_patients": "253"
     },
     {
       "finess": "760780270",
@@ -844,7 +834,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
@@ -926,7 +916,7 @@
       "finess": "920000650",
       "raison_sociale": "HÔPITAL FOCH",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -953,33 +943,43 @@
       "nb_patients": "1 à 10"
     },
     {
-      "finess": "940110018",
-      "raison_sociale": "CHIC DE CRETEIL",
+      "finess": "940016819",
+      "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "38",
-      "sexe_ratio": "84.2%",
-      "age_moyen": "50.34",
-      "nb_patients": "11"
-    },
-    {
-      "finess": "940110042",
-      "raison_sociale": "CHIC DE VILLENEUVE ST GEORGES",
-      "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "940110018",
+      "raison_sociale": "CHIC DE CRETEIL",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "43",
+      "sexe_ratio": "81.4%",
+      "age_moyen": "51.42",
+      "nb_patients": "14"
+    },
+    {
+      "finess": "940110042",
+      "raison_sociale": "CHIC DE VILLENEUVE ST GEORGES",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "15",
+      "sexe_ratio": "100%",
+      "age_moyen": "84.87",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "22",
-      "sexe_ratio": "31.8%",
-      "age_moyen": "64.41",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "31",
+      "sexe_ratio": "51.6%",
+      "age_moyen": "61.68",
       "nb_patients": "1 à 10"
     },
     {
@@ -1027,10 +1027,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "2707",
-      "sexe_ratio": "51.1%",
-      "age_moyen": "65.57",
-      "nb_patients": "866"
+      "nb_actes_ambulatoires": "2774",
+      "sexe_ratio": "50.6%",
+      "age_moyen": "65.58",
+      "nb_patients": "897"
     }
   ]
 }

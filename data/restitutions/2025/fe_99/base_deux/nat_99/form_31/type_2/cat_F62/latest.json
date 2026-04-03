@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 04:10:00",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 03:20:07",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -273,6 +273,16 @@
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "440000263",
+      "raison_sociale": "CHS BLAIN",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "36",
+      "sexe_ratio": "100%",
+      "age_moyen": "57.36",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "470000381",
       "raison_sociale": "CH DEPARTEMENTAL DE LA CANDELIE",
       "categorie": "CH",
@@ -516,10 +526,10 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "24",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "27",
       "sexe_ratio": "100%",
-      "age_moyen": "53.33",
+      "age_moyen": "53.41",
       "nb_patients": "1 à 10"
     },
     {
@@ -536,10 +546,10 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "52",
-      "sexe_ratio": "34.6%",
-      "age_moyen": "30.46",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "55",
+      "sexe_ratio": "34.5%",
+      "age_moyen": "31.42",
       "nb_patients": "1 à 10"
     },
     {
@@ -594,7 +604,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "33",
@@ -646,7 +656,7 @@
       "finess": "920120011",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES PERCY",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "89",
@@ -656,10 +666,10 @@
       "finess": "930110069",
       "raison_sociale": "CH ROBERT BALLANGER",
       "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "24",
-      "sexe_ratio": "100%",
-      "age_moyen": "6.63",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "63",
+      "sexe_ratio": "77.8%",
+      "age_moyen": "8.16",
       "nb_patients": "1 à 10"
     },
     {
@@ -676,17 +686,17 @@
       "finess": "940110018",
       "raison_sociale": "CHIC DE CRETEIL",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "24",
-      "sexe_ratio": "66.7%",
-      "age_moyen": "9.25",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "25",
+      "sexe_ratio": "64%",
+      "age_moyen": "9.32",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "940120017",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES BEGIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "30",
@@ -696,10 +706,10 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "32",
-      "sexe_ratio": "100%",
-      "age_moyen": "32.44",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "33",
+      "sexe_ratio": "97%",
+      "age_moyen": "32.45",
       "nb_patients": "1 à 10"
     },
     {
@@ -723,10 +733,20 @@
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "970100277",
+      "raison_sociale": "EPSM DE LA GUADELOUPE",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "37",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "970302022",
       "raison_sociale": "CH DE CAYENNE",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "18",
@@ -747,10 +767,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "1907",
-      "sexe_ratio": "41.5%",
-      "age_moyen": "40.89",
-      "nb_patients": "266"
+      "nb_actes_ambulatoires": "1995",
+      "sexe_ratio": "42.9%",
+      "age_moyen": "40.53",
+      "nb_patients": "273"
     }
   ]
 }

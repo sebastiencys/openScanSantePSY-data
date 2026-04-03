@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 17:41:17",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 20:49:56",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -13,10 +13,24 @@
   },
   "data": [
     {
+      "finess": "300002128",
+      "raison_sociale": "ASVMT - USR CHATEAU DE COULORGUES",
+      "categorie": "PRIVÉ",
+      "periode": "M12",
+      "nb_journees": "4871",
+      "avq_physique": "4.29",
+      "avq_relationnel": "4.45",
+      "nb_sejours": "42",
+      "sexe_ratio": "57.7%",
+      "age_moyen": "30.13",
+      "nb_patients": "26",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "310780390",
       "raison_sociale": "CLINIQUE DE BEAUPUY",
       "categorie": "PRIVÉ",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -143,12 +157,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "1366",
-      "avq_physique": "5.19",
-      "avq_relationnel": "4.6",
-      "nb_sejours": "33",
-      "sexe_ratio": "82.4%",
-      "age_moyen": "44.97",
+      "nb_journees": "6237",
+      "avq_physique": "4.49",
+      "avq_relationnel": "4.48",
+      "nb_sejours": "75",
+      "sexe_ratio": "63.1%",
+      "age_moyen": "33.38",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

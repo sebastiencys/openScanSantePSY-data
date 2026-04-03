@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 21:31:22",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 19:35:27",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -97,16 +97,30 @@
       "nb_actes_ambulatoires": null
     },
     {
+      "finess": "940140049",
+      "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "100%",
+      "age_moyen": "13",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "Total",
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "147",
-      "avq_physique": "8.01",
-      "avq_relationnel": "6.64",
-      "nb_sejours": "12",
-      "sexe_ratio": "23.8%",
-      "age_moyen": "14.37",
+      "nb_journees": "154",
+      "avq_physique": "8.05",
+      "avq_relationnel": "6.52",
+      "nb_sejours": "13",
+      "sexe_ratio": "27.3%",
+      "age_moyen": "14.31",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 18:15:00",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:23:51",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -176,10 +176,10 @@
       "finess": "120004528",
       "raison_sociale": "CH DE MILLAU",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "22",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "24",
       "sexe_ratio": "0%",
-      "age_moyen": "15.09",
+      "age_moyen": "15.13",
       "nb_patients": "1 à 10"
     },
     {
@@ -216,7 +216,7 @@
       "finess": "130786742",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES LAVERAN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "41.13",
@@ -486,7 +486,7 @@
       "finess": "300780046",
       "raison_sociale": "CH ALES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "57.1%",
       "age_moyen": "52.57",
@@ -626,10 +626,10 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "67",
-      "sexe_ratio": "95.5%",
-      "age_moyen": "42.55",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "104",
+      "sexe_ratio": "97.1%",
+      "age_moyen": "42.78",
       "nb_patients": "1 à 10"
     },
     {
@@ -1116,21 +1116,21 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "95",
-      "sexe_ratio": "76.8%",
-      "age_moyen": "48.16",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "103",
+      "sexe_ratio": "78.6%",
+      "age_moyen": "47.99",
       "nb_patients": "14"
     },
     {
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "207",
-      "sexe_ratio": "63.3%",
-      "age_moyen": "52.36",
-      "nb_patients": "32"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "136",
+      "sexe_ratio": "62.5%",
+      "age_moyen": "49.88",
+      "nb_patients": "25"
     },
     {
       "finess": "630781029",
@@ -1246,7 +1246,7 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "31",
@@ -1276,10 +1276,10 @@
       "finess": "700004096",
       "raison_sociale": "ASSOCATION HOSPITALIERE DE BOURGOGNE FRANCHE-COMTE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
-      "sexe_ratio": "42.9%",
-      "age_moyen": "37",
+      "sexe_ratio": "28.6%",
+      "age_moyen": "41.57",
       "nb_patients": "1 à 10"
     },
     {
@@ -1336,11 +1336,11 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "141",
-      "sexe_ratio": "39%",
-      "age_moyen": "35.74",
-      "nb_patients": "20"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "155",
+      "sexe_ratio": "38.1%",
+      "age_moyen": "35.02",
+      "nb_patients": "21"
     },
     {
       "finess": "750150104",
@@ -1356,21 +1356,21 @@
       "finess": "750170102",
       "raison_sociale": "HDJ INSTITUT PAUL SIVADON",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "351",
-      "sexe_ratio": "27.1%",
-      "age_moyen": "49.9",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "380",
+      "sexe_ratio": "26.1%",
+      "age_moyen": "50.08",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "212",
-      "sexe_ratio": "50.9%",
-      "age_moyen": "47.73",
-      "nb_patients": "65"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "224",
+      "sexe_ratio": "49.1%",
+      "age_moyen": "47.81",
+      "nb_patients": "68"
     },
     {
       "finess": "750720914",
@@ -1404,7 +1404,7 @@
     },
     {
       "finess": "760780288",
-      "raison_sociale": "HÔPITAL PRIVÉ DE JOUR MGEN",
+      "raison_sociale": "VYV3 NORMANDIE",
       "categorie": "PSPH/EBNL",
       "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
@@ -1456,7 +1456,7 @@
       "finess": "780001236",
       "raison_sociale": "CHIC DE POISSY ST-GERMAIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "27",
@@ -1564,7 +1564,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "301",
@@ -1676,10 +1676,10 @@
       "finess": "920120011",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES PERCY",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
-      "age_moyen": "48.33",
+      "age_moyen": "48.5",
       "nb_patients": "1 à 10"
     },
     {
@@ -1706,27 +1706,27 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "540",
-      "sexe_ratio": "87.6%",
-      "age_moyen": "35.38",
-      "nb_patients": "19"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "635",
+      "sexe_ratio": "86.8%",
+      "age_moyen": "35.92",
+      "nb_patients": "21"
     },
     {
       "finess": "940110042",
       "raison_sociale": "CHIC DE VILLENEUVE ST GEORGES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "16",
-      "sexe_ratio": "18.8%",
-      "age_moyen": "59.19",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "20",
+      "sexe_ratio": "35%",
+      "age_moyen": "56.95",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "940120017",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES BEGIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "14",
       "sexe_ratio": "7.1%",
       "age_moyen": "52",
@@ -1736,10 +1736,10 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "43",
-      "sexe_ratio": "34.9%",
-      "age_moyen": "48.42",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "51",
+      "sexe_ratio": "45.1%",
+      "age_moyen": "44.12",
       "nb_patients": "1 à 10"
     },
     {
@@ -1766,10 +1766,10 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "38",
-      "sexe_ratio": "26.3%",
-      "age_moyen": "52.53",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "39",
+      "sexe_ratio": "25.6%",
+      "age_moyen": "52.77",
       "nb_patients": "1 à 10"
     },
     {
@@ -1796,7 +1796,7 @@
       "finess": "970302022",
       "raison_sociale": "CH DE CAYENNE",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "43",
@@ -1817,10 +1817,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "17471",
-      "sexe_ratio": "58.8%",
-      "age_moyen": "42.25",
-      "nb_patients": "1463"
+      "nb_actes_ambulatoires": "17611",
+      "sexe_ratio": "58.9%",
+      "age_moyen": "42.18",
+      "nb_patients": "1465"
     }
   ]
 }

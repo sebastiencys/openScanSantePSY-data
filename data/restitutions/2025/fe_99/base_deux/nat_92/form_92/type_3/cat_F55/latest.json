@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 23:55:27",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 05:05:56",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -450,7 +450,7 @@
       "finess": "440000263",
       "raison_sociale": "CHS BLAIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "0",
       "avq_physique": null,
       "avq_relationnel": null,
@@ -758,7 +758,7 @@
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -898,7 +898,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "0",
       "avq_physique": null,
       "avq_relationnel": null,
@@ -912,15 +912,15 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "0",
       "avq_physique": null,
       "avq_relationnel": null,
       "nb_sejours": "0",
-      "nb_actes_ambulatoires": "86",
-      "sexe_ratio": "27.9%",
-      "age_moyen": "17.97",
-      "nb_patients": "17"
+      "nb_actes_ambulatoires": "95",
+      "sexe_ratio": "28.4%",
+      "age_moyen": "18.35",
+      "nb_patients": "18"
     },
     {
       "finess": "770021145",
@@ -934,6 +934,20 @@
       "nb_actes_ambulatoires": "43",
       "sexe_ratio": "34.9%",
       "age_moyen": "42.53",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "780001236",
+      "raison_sociale": "CHIC DE POISSY ST-GERMAIN",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "NA",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
       "nb_patients": "1 à 10"
     },
     {
@@ -994,7 +1008,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_journees": "NA",
@@ -1066,12 +1080,12 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "0",
       "avq_physique": null,
       "avq_relationnel": null,
       "nb_sejours": "0",
-      "nb_actes_ambulatoires": "12",
+      "nb_actes_ambulatoires": "14",
       "sexe_ratio": "0%",
       "age_moyen": "35",
       "nb_patients": "1 à 10"
@@ -1080,14 +1094,14 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "0",
       "avq_physique": null,
       "avq_relationnel": null,
       "nb_sejours": "0",
-      "nb_actes_ambulatoires": "53",
+      "nb_actes_ambulatoires": "56",
       "sexe_ratio": "100%",
-      "age_moyen": "42.04",
+      "age_moyen": "41.8",
       "nb_patients": "1 à 10"
     },
     {
@@ -1113,9 +1127,9 @@
       "avq_physique": null,
       "avq_relationnel": null,
       "nb_sejours": "0",
-      "nb_actes_ambulatoires": "1136",
-      "sexe_ratio": "31.3%",
-      "age_moyen": "33.07",
+      "nb_actes_ambulatoires": "1153",
+      "sexe_ratio": "31.7%",
+      "age_moyen": "33",
       "nb_patients": null
     }
   ]

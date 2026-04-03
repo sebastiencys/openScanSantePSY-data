@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 19:04:55",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 01:13:19",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -13,8 +13,36 @@
   },
   "data": [
     {
+      "finess": "130786973",
+      "raison_sociale": "MEDIAZUR",
+      "categorie": "PRIVÉ",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "270027279",
       "raison_sociale": "CLINIQUE DES PORTES DE L'EURE",
+      "categorie": "PRIVÉ",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "300002128",
+      "raison_sociale": "ASVMT - USR CHATEAU DE COULORGUES",
       "categorie": "PRIVÉ",
       "periode": "M12",
       "nb_journees": "NA",
@@ -185,12 +213,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "1993",
-      "avq_physique": "5.27",
-      "avq_relationnel": "3.78",
-      "nb_sejours": "31",
-      "sexe_ratio": "47%",
-      "age_moyen": "43.41",
+      "nb_journees": "2170",
+      "avq_physique": "5.17",
+      "avq_relationnel": "3.7",
+      "nb_sejours": "33",
+      "sexe_ratio": "43.2%",
+      "age_moyen": "42.38",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

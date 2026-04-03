@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 20:06:19",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 03:57:14",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -108,20 +108,6 @@
       "sexe_ratio": "NA",
       "age_moyen": "NA",
       "nb_patients": "1 à 10",
-      "nb_actes_ambulatoires": null
-    },
-    {
-      "finess": "440000263",
-      "raison_sociale": "CHS BLAIN",
-      "categorie": "CH",
-      "periode": "M11",
-      "nb_journees": "6003",
-      "avq_physique": "6.31",
-      "avq_relationnel": "5.02",
-      "nb_sejours": "96",
-      "sexe_ratio": "55.9%",
-      "age_moyen": "56.97",
-      "nb_patients": "30",
       "nb_actes_ambulatoires": null
     },
     {
@@ -296,13 +282,13 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_journees": "1059",
+      "periode": "M12",
+      "nb_journees": "1318",
       "avq_physique": "8",
       "avq_relationnel": "4",
-      "nb_sejours": "12",
-      "sexe_ratio": "71.8%",
-      "age_moyen": "54.56",
+      "nb_sejours": "13",
+      "sexe_ratio": "71%",
+      "age_moyen": "53.98",
       "nb_patients": "11",
       "nb_actes_ambulatoires": null
     },
@@ -377,20 +363,6 @@
       "nb_actes_ambulatoires": null
     },
     {
-      "finess": "930110069",
-      "raison_sociale": "CH ROBERT BALLANGER",
-      "categorie": "CH",
-      "periode": "M10",
-      "nb_journees": "3781",
-      "avq_physique": null,
-      "avq_relationnel": null,
-      "nb_sejours": "25",
-      "sexe_ratio": "56.6%",
-      "age_moyen": "21.48",
-      "nb_patients": "18",
-      "nb_actes_ambulatoires": null
-    },
-    {
       "finess": "930140025",
       "raison_sociale": "EPS VILLE-EVRARD",
       "categorie": "CH",
@@ -405,24 +377,10 @@
       "nb_actes_ambulatoires": null
     },
     {
-      "finess": "940016819",
-      "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
-      "categorie": "CH",
-      "periode": "M11",
-      "nb_journees": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_sejours": "1 à 10",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "nb_patients": "1 à 10",
-      "nb_actes_ambulatoires": null
-    },
-    {
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -437,12 +395,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "22590",
-      "avq_physique": "6.04",
-      "avq_relationnel": "4.28",
-      "nb_sejours": "475",
-      "sexe_ratio": "54%",
-      "age_moyen": "44.77",
+      "nb_journees": "13018",
+      "avq_physique": "5.93",
+      "avq_relationnel": "3.93",
+      "nb_sejours": "353",
+      "sexe_ratio": "52.4%",
+      "age_moyen": "46.06",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

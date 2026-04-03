@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 02:10:43",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 00:11:56",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -12,6 +12,20 @@
     "cat_diag": "F92"
   },
   "data": [
+    {
+      "finess": "300002128",
+      "raison_sociale": "ASVMT - USR CHATEAU DE COULORGUES",
+      "categorie": "PRIVÉ",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
     {
       "finess": "310780754",
       "raison_sociale": "CH GERARD MARCHANT",
@@ -73,12 +87,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_sejours": "1 à 10",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
+      "nb_journees": "977",
+      "avq_physique": "4.16",
+      "avq_relationnel": "3.84",
+      "nb_sejours": "13",
+      "sexe_ratio": "47.1%",
+      "age_moyen": "31.23",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

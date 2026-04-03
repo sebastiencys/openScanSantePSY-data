@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 19:27:37",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 06:19:43",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -76,7 +76,7 @@
       "finess": "290000728",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES CLERMONT-TONNERRE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -236,7 +236,7 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -246,7 +246,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -293,16 +293,6 @@
       "nb_patients": "1 à 10"
     },
     {
-      "finess": "940016819",
-      "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
-      "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "12",
-      "sexe_ratio": "58.3%",
-      "age_moyen": "53.5",
-      "nb_patients": "1 à 10"
-    },
-    {
       "finess": "950013870",
       "raison_sociale": "GHEM EAUBONNE MONTMORENCY SIMONE VEIL",
       "categorie": "CH",
@@ -337,10 +327,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "5469",
+      "nb_actes_ambulatoires": "5455",
       "sexe_ratio": "54%",
-      "age_moyen": "30.02",
-      "nb_patients": "644"
+      "age_moyen": "29.95",
+      "nb_patients": "641"
     }
   ]
 }

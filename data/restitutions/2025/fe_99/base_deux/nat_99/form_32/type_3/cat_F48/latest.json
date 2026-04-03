@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 18:23:25",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:30:51",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -163,6 +163,16 @@
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "440000263",
+      "raison_sociale": "CHS BLAIN",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "49",
+      "sexe_ratio": "100%",
+      "age_moyen": "68.92",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "490000676",
       "raison_sociale": "CH CHOLET",
       "categorie": "CH",
@@ -266,17 +276,17 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "232",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "241",
       "sexe_ratio": "0%",
-      "age_moyen": "60.11",
+      "age_moyen": "60.26",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "17",
       "sexe_ratio": "0%",
       "age_moyen": "81.41",
@@ -416,10 +426,10 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "14",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "12",
       "sexe_ratio": "100%",
-      "age_moyen": "14.71",
+      "age_moyen": "14.67",
       "nb_patients": "1 à 10"
     },
     {
@@ -437,10 +447,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "2653",
-      "sexe_ratio": "33%",
-      "age_moyen": "51.32",
-      "nb_patients": "122"
+      "nb_actes_ambulatoires": "2709",
+      "sexe_ratio": "34.1%",
+      "age_moyen": "51.71",
+      "nb_patients": "123"
     }
   ]
 }

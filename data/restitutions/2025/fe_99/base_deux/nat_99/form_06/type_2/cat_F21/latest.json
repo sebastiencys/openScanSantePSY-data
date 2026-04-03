@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 03:33:39",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 02:44:08",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -23,6 +23,20 @@
       "nb_sejours": "1 à 10",
       "sexe_ratio": "49.3%",
       "age_moyen": "20.34",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "300002128",
+      "raison_sociale": "ASVMT - USR CHATEAU DE COULORGUES",
+      "categorie": "PRIVÉ",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "22.78",
       "nb_patients": "1 à 10",
       "nb_actes_ambulatoires": null
     },
@@ -157,12 +171,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "1856",
-      "avq_physique": "5.06",
-      "avq_relationnel": "3.44",
-      "nb_sejours": "13",
-      "sexe_ratio": "56.8%",
-      "age_moyen": "29.32",
+      "nb_journees": "2124",
+      "avq_physique": "4.93",
+      "avq_relationnel": "3.51",
+      "nb_sejours": "15",
+      "sexe_ratio": "49.6%",
+      "age_moyen": "28.5",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

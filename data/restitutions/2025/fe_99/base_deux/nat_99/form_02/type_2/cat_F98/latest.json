@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 03:18:40",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 02:30:12",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "030780092",
       "raison_sociale": "CH MOULINS YZEURE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -195,6 +195,20 @@
       "nb_actes_ambulatoires": null
     },
     {
+      "finess": "690780119",
+      "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "14",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "710781329",
       "raison_sociale": "EPSM 71",
       "categorie": "CH",
@@ -240,7 +254,7 @@
       "finess": "780002697",
       "raison_sociale": "CHIC DE MEULAN LES MUREAUX",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -366,7 +380,7 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -423,12 +437,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "223",
+      "nb_journees": "224",
       "avq_physique": "6.71",
       "avq_relationnel": "4.87",
-      "nb_sejours": "97",
-      "sexe_ratio": "78.5%",
-      "age_moyen": "12.13",
+      "nb_sejours": "98",
+      "sexe_ratio": "78.1%",
+      "age_moyen": "12.14",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

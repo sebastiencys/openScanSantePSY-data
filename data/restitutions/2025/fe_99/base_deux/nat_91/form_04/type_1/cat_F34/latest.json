@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 01:59:19",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 00:01:11",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -12,6 +12,20 @@
     "cat_diag": "F34"
   },
   "data": [
+    {
+      "finess": "030780092",
+      "raison_sociale": "CH MOULINS YZEURE",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
     {
       "finess": "030780282",
       "raison_sociale": "CHSI AINAY LE CHATEAU",
@@ -100,13 +114,13 @@
       "finess": "440000263",
       "raison_sociale": "CHS BLAIN",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_journees": "862",
-      "avq_physique": "5.23",
-      "avq_relationnel": "3.27",
-      "nb_sejours": "19",
+      "periode": "M12",
+      "nb_journees": "941",
+      "avq_physique": "5.35",
+      "avq_relationnel": "3.32",
+      "nb_sejours": "21",
       "sexe_ratio": "100%",
-      "age_moyen": "57.77",
+      "age_moyen": "57.87",
       "nb_patients": "1 à 10",
       "nb_actes_ambulatoires": null
     },
@@ -114,7 +128,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -129,12 +143,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "4747",
-      "avq_physique": "6.04",
+      "nb_journees": "4853",
+      "avq_physique": "6.03",
       "avq_relationnel": "3.63",
-      "nb_sejours": "48",
-      "sexe_ratio": "65.3%",
-      "age_moyen": "61.66",
+      "nb_sejours": "51",
+      "sexe_ratio": "65.5%",
+      "age_moyen": "61.37",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

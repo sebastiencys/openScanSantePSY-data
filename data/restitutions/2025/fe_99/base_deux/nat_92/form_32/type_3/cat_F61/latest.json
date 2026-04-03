@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 23:48:43",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 04:58:49",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -526,10 +526,10 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "223",
-      "sexe_ratio": "11.2%",
-      "age_moyen": "52.48",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "263",
+      "sexe_ratio": "12.2%",
+      "age_moyen": "53.34",
       "nb_patients": "1 à 10"
     },
     {
@@ -586,10 +586,10 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "42",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "72",
       "sexe_ratio": "0%",
-      "age_moyen": "49.71",
+      "age_moyen": "57.64",
       "nb_patients": "1 à 10"
     },
     {
@@ -600,6 +600,16 @@
       "nb_actes_ambulatoires": "32",
       "sexe_ratio": "65.6%",
       "age_moyen": "43",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "700004096",
+      "raison_sociale": "ASSOCATION HOSPITALIERE DE BOURGOGNE FRANCHE-COMTE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "16",
+      "sexe_ratio": "0%",
+      "age_moyen": "60",
       "nb_patients": "1 à 10"
     },
     {
@@ -626,10 +636,10 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "85",
-      "sexe_ratio": "2.4%",
-      "age_moyen": "54.54",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "88",
+      "sexe_ratio": "2.3%",
+      "age_moyen": "54.76",
       "nb_patients": "1 à 10"
     },
     {
@@ -736,8 +746,8 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "36",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "39",
       "sexe_ratio": "100%",
       "age_moyen": "23",
       "nb_patients": "1 à 10"
@@ -747,10 +757,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "4280",
-      "sexe_ratio": "42.3%",
-      "age_moyen": "51.3",
-      "nb_patients": "155"
+      "nb_actes_ambulatoires": "4372",
+      "sexe_ratio": "41.6%",
+      "age_moyen": "51.5",
+      "nb_patients": "158"
     }
   ]
 }

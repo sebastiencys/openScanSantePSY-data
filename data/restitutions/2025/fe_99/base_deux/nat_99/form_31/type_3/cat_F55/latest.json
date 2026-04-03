@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 18:17:04",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:25:33",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -226,7 +226,7 @@
       "finess": "440000263",
       "raison_sociale": "CHS BLAIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "22",
       "sexe_ratio": "0%",
       "age_moyen": "43.27",
@@ -326,7 +326,7 @@
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "21.5",
@@ -366,7 +366,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "16.38",
@@ -376,11 +376,11 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "51",
-      "sexe_ratio": "47.1%",
-      "age_moyen": "17.67",
-      "nb_patients": "15"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "56",
+      "sexe_ratio": "48.2%",
+      "age_moyen": "18.27",
+      "nb_patients": "16"
     },
     {
       "finess": "770021145",
@@ -390,6 +390,16 @@
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "28",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "780001236",
+      "raison_sociale": "CHIC DE POISSY ST-GERMAIN",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "100%",
+      "age_moyen": "31.33",
       "nb_patients": "1 à 10"
     },
     {
@@ -414,7 +424,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
@@ -436,10 +446,10 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "47",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "48",
       "sexe_ratio": "100%",
-      "age_moyen": "42.91",
+      "age_moyen": "42.92",
       "nb_patients": "1 à 10"
     },
     {
@@ -457,10 +467,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "399",
-      "sexe_ratio": "45.1%",
-      "age_moyen": "32.37",
-      "nb_patients": "69"
+      "nb_actes_ambulatoires": "408",
+      "sexe_ratio": "45.8%",
+      "age_moyen": "32.29",
+      "nb_patients": "71"
     }
   ]
 }

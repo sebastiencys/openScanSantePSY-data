@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 01:17:59",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:51:24",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -36,7 +36,7 @@
       "finess": "030780092",
       "raison_sociale": "CH MOULINS YZEURE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -596,10 +596,10 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "16",
-      "sexe_ratio": "50%",
-      "age_moyen": "73.5",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "19",
+      "sexe_ratio": "52.6%",
+      "age_moyen": "73.21",
       "nb_patients": "1 à 10"
     },
     {
@@ -1016,21 +1016,21 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "67",
-      "sexe_ratio": "29.9%",
-      "age_moyen": "74.6",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "70",
+      "sexe_ratio": "30%",
+      "age_moyen": "74.39",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "251",
-      "sexe_ratio": "19.9%",
-      "age_moyen": "74.39",
-      "nb_patients": "60"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "238",
+      "sexe_ratio": "24.8%",
+      "age_moyen": "74.33",
+      "nb_patients": "62"
     },
     {
       "finess": "640780862",
@@ -1136,11 +1136,11 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "17",
-      "sexe_ratio": "29.4%",
-      "age_moyen": "82.35",
-      "nb_patients": "1 à 10"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "53",
+      "sexe_ratio": "30.2%",
+      "age_moyen": "80.94",
+      "nb_patients": "14"
     },
     {
       "finess": "690780143",
@@ -1166,10 +1166,10 @@
       "finess": "700004096",
       "raison_sociale": "ASSOCATION HOSPITALIERE DE BOURGOGNE FRANCHE-COMTE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "24",
-      "sexe_ratio": "12.5%",
-      "age_moyen": "75.42",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "43",
+      "sexe_ratio": "7%",
+      "age_moyen": "78.14",
       "nb_patients": "1 à 10"
     },
     {
@@ -1226,21 +1226,21 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "144",
-      "sexe_ratio": "29.2%",
-      "age_moyen": "78.51",
-      "nb_patients": "44"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "169",
+      "sexe_ratio": "27.2%",
+      "age_moyen": "78.37",
+      "nb_patients": "48"
     },
     {
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "264",
-      "sexe_ratio": "26.1%",
-      "age_moyen": "80.15",
-      "nb_patients": "55"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "295",
+      "sexe_ratio": "27.5%",
+      "age_moyen": "80.31",
+      "nb_patients": "67"
     },
     {
       "finess": "760780023",
@@ -1384,7 +1384,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "59",
@@ -1466,7 +1466,27 @@
       "finess": "920000650",
       "raison_sociale": "HÔPITAL FOCH",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "920110020",
+      "raison_sociale": "CASH DE NANTERRE",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10"
+    },
+    {
+      "finess": "930110069",
+      "raison_sociale": "CH ROBERT BALLANGER",
+      "categorie": "CH",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1486,17 +1506,17 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "62",
-      "sexe_ratio": "59.7%",
-      "age_moyen": "82.18",
-      "nb_patients": "12"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "160",
+      "sexe_ratio": "26.9%",
+      "age_moyen": "85.29",
+      "nb_patients": "18"
     },
     {
       "finess": "940110042",
       "raison_sociale": "CHIC DE VILLENEUVE ST GEORGES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1506,7 +1526,7 @@
       "finess": "940120017",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES BEGIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1516,7 +1536,7 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1556,7 +1576,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1597,10 +1617,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "17709",
+      "nb_actes_ambulatoires": "17924",
       "sexe_ratio": "29.1%",
-      "age_moyen": "80.99",
-      "nb_patients": "3439"
+      "age_moyen": "81.01",
+      "nb_patients": "3476"
     }
   ]
 }

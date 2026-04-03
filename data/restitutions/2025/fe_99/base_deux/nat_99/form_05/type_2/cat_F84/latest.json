@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 03:31:41",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 02:42:15",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -251,16 +251,30 @@
       "nb_actes_ambulatoires": null
     },
     {
+      "finess": "930110069",
+      "raison_sociale": "CH ROBERT BALLANGER",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees": "109",
+      "avq_physique": null,
+      "avq_relationnel": null,
+      "nb_sejours": "30",
+      "sexe_ratio": "89.9%",
+      "age_moyen": "10.32",
+      "nb_patients": "25",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "Total",
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "5170",
+      "nb_journees": "5279",
       "avq_physique": "6.89",
       "avq_relationnel": "5.32",
-      "nb_sejours": "74",
-      "sexe_ratio": "82.4%",
-      "age_moyen": "45.91",
+      "nb_sejours": "104",
+      "sexe_ratio": "82.6%",
+      "age_moyen": "45.17",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }

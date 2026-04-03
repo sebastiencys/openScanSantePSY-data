@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 01:26:42",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 21:59:40",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -526,11 +526,11 @@
       "finess": "440000263",
       "raison_sociale": "CHS BLAIN",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "140",
-      "sexe_ratio": "82.9%",
-      "age_moyen": "39.98",
-      "nb_patients": "15"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "188",
+      "sexe_ratio": "77.7%",
+      "age_moyen": "40.46",
+      "nb_patients": "20"
     },
     {
       "finess": "440000289",
@@ -836,11 +836,11 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "1094",
-      "sexe_ratio": "68.4%",
-      "age_moyen": "50.78",
-      "nb_patients": "15"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1207",
+      "sexe_ratio": "66.9%",
+      "age_moyen": "50.43",
+      "nb_patients": "16"
     },
     {
       "finess": "640780862",
@@ -926,10 +926,10 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "43",
-      "sexe_ratio": "37.2%",
-      "age_moyen": "48.16",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "48",
+      "sexe_ratio": "33.3%",
+      "age_moyen": "50.13",
       "nb_patients": "1 à 10"
     },
     {
@@ -946,10 +946,10 @@
       "finess": "700004096",
       "raison_sociale": "ASSOCATION HOSPITALIERE DE BOURGOGNE FRANCHE-COMTE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "47",
-      "sexe_ratio": "87.2%",
-      "age_moyen": "40.83",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "66",
+      "sexe_ratio": "90.9%",
+      "age_moyen": "40.88",
       "nb_patients": "1 à 10"
     },
     {
@@ -1006,17 +1006,17 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "360",
-      "sexe_ratio": "90.3%",
-      "age_moyen": "41.01",
-      "nb_patients": "23"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "363",
+      "sexe_ratio": "91.7%",
+      "age_moyen": "41.5",
+      "nb_patients": "22"
     },
     {
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "16",
       "sexe_ratio": "100%",
       "age_moyen": "50.94",
@@ -1066,7 +1066,7 @@
       "finess": "780001236",
       "raison_sociale": "CHIC DE POISSY ST-GERMAIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "23",
       "sexe_ratio": "0%",
       "age_moyen": "24",
@@ -1164,7 +1164,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "662",
@@ -1266,20 +1266,20 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "40",
-      "sexe_ratio": "57.5%",
-      "age_moyen": "34.93",
-      "nb_patients": "1 à 10"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "43",
+      "sexe_ratio": "60.5%",
+      "age_moyen": "35.28",
+      "nb_patients": "11"
     },
     {
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "149",
-      "sexe_ratio": "78.5%",
-      "age_moyen": "55.52",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "162",
+      "sexe_ratio": "80.2%",
+      "age_moyen": "55.48",
       "nb_patients": "1 à 10"
     },
     {
@@ -1306,7 +1306,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "15",
       "sexe_ratio": "100%",
       "age_moyen": "37.8",
@@ -1337,10 +1337,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "15205",
-      "sexe_ratio": "71.2%",
-      "age_moyen": "44.86",
-      "nb_patients": "898"
+      "nb_actes_ambulatoires": "15409",
+      "sexe_ratio": "71.1%",
+      "age_moyen": "44.89",
+      "nb_patients": "904"
     }
   ]
 }

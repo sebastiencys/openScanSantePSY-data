@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-08 04:02:37",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 03:12:23",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -306,7 +306,7 @@
       "finess": "300780046",
       "raison_sociale": "CH ALES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "9.5",
@@ -316,10 +316,10 @@
       "finess": "300780103",
       "raison_sociale": "CHSP LE MAS CAREIRON",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "46",
-      "sexe_ratio": "73.9%",
-      "age_moyen": "42.87",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "47",
+      "sexe_ratio": "74.5%",
+      "age_moyen": "42.79",
       "nb_patients": "1 à 10"
     },
     {
@@ -486,10 +486,10 @@
       "finess": "440000263",
       "raison_sociale": "CHS BLAIN",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
-      "sexe_ratio": "0%",
-      "age_moyen": "29.5",
+      "sexe_ratio": "33.3%",
+      "age_moyen": "39.33",
       "nb_patients": "1 à 10"
     },
     {
@@ -733,6 +733,16 @@
       "nb_patients": "1 à 10"
     },
     {
+      "finess": "630780989",
+      "raison_sociale": "CHU CLERMONT-FERRAND",
+      "categorie": "CHR/U",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "1 à 10",
+      "sexe_ratio": "0%",
+      "age_moyen": "64",
+      "nb_patients": "1 à 10"
+    },
+    {
       "finess": "650780174",
       "raison_sociale": "CH LANNEMEZAN",
       "categorie": "CH",
@@ -796,10 +806,10 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "12",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "16",
       "sexe_ratio": "100%",
-      "age_moyen": "32.42",
+      "age_moyen": "32.56",
       "nb_patients": "1 à 10"
     },
     {
@@ -816,7 +826,7 @@
       "finess": "700004096",
       "raison_sociale": "ASSOCATION HOSPITALIERE DE BOURGOGNE FRANCHE-COMTE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "0%",
       "age_moyen": "65",
@@ -856,17 +866,17 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "65",
-      "sexe_ratio": "81.5%",
-      "age_moyen": "35.72",
-      "nb_patients": "18"
+      "periode": "M12",
+      "nb_actes_ambulatoires": "70",
+      "sexe_ratio": "78.6%",
+      "age_moyen": "35.11",
+      "nb_patients": "19"
     },
     {
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "15.44",
@@ -1036,20 +1046,20 @@
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "36",
-      "sexe_ratio": "47.2%",
-      "age_moyen": "57.31",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "39",
+      "sexe_ratio": "48.7%",
+      "age_moyen": "57.49",
       "nb_patients": "1 à 10"
     },
     {
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "12",
-      "sexe_ratio": "33.3%",
-      "age_moyen": "58.92",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "20",
+      "sexe_ratio": "55%",
+      "age_moyen": "53.25",
       "nb_patients": "1 à 10"
     },
     {
@@ -1076,10 +1086,10 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
-      "age_moyen": "38.5",
+      "age_moyen": "39.8",
       "nb_patients": "1 à 10"
     },
     {
@@ -1107,10 +1117,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "4515",
-      "sexe_ratio": "51.6%",
-      "age_moyen": "48.68",
-      "nb_patients": "596"
+      "nb_actes_ambulatoires": "4539",
+      "sexe_ratio": "51.8%",
+      "age_moyen": "48.65",
+      "nb_patients": "600"
     }
   ]
 }

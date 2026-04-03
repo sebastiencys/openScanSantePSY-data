@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 22:13:55",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-02 20:11:48",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -176,10 +176,10 @@
       "finess": "370000481",
       "raison_sociale": "CHU DE TOURS",
       "categorie": "CHR/U",
-      "periode": "M10",
-      "nb_actes_ambulatoires": "75",
-      "sexe_ratio": "100%",
-      "age_moyen": "6.17",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "149",
+      "sexe_ratio": "98.7%",
+      "age_moyen": "6",
       "nb_patients": "1 à 10"
     },
     {
@@ -326,10 +326,10 @@
       "finess": "630780195",
       "raison_sociale": "CH STE MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "26",
-      "sexe_ratio": "88.5%",
-      "age_moyen": "57.88",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "27",
+      "sexe_ratio": "88.9%",
+      "age_moyen": "57.81",
       "nb_patients": "1 à 10"
     },
     {
@@ -346,7 +346,7 @@
       "finess": "690780119",
       "raison_sociale": "CENTRE PSYCHOTHERAPIQUE ST CYR AU MONT D'OR",
       "categorie": "CH",
-      "periode": "M10",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "49",
@@ -376,10 +376,10 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
-      "nb_actes_ambulatoires": "243",
-      "sexe_ratio": "91.4%",
-      "age_moyen": "43.11",
+      "periode": "M12",
+      "nb_actes_ambulatoires": "259",
+      "sexe_ratio": "91.9%",
+      "age_moyen": "43.35",
       "nb_patients": "20"
     },
     {
@@ -434,7 +434,7 @@
     },
     {
       "finess": "830101200",
-      "raison_sociale": "CHS PIERREFEU",
+      "raison_sociale": "EPSYVAR",
       "categorie": "CH",
       "periode": "M12",
       "nb_actes_ambulatoires": "38",
@@ -466,7 +466,7 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "14",
       "sexe_ratio": "0%",
       "age_moyen": "49",
@@ -486,7 +486,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "100%",
       "age_moyen": "53",
@@ -517,10 +517,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "2708",
-      "sexe_ratio": "63.9%",
-      "age_moyen": "38.6",
-      "nb_patients": "128"
+      "nb_actes_ambulatoires": "2799",
+      "sexe_ratio": "65%",
+      "age_moyen": "37.79",
+      "nb_patients": "129"
     }
   ]
 }

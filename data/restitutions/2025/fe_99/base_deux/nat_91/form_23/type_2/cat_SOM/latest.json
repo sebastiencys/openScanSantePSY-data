@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-03-07 20:37:39",
+  "site_updated_at": "2026-04-02",
+  "extracted_at": "2026-04-03 04:25:56",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -12,20 +12,6 @@
     "cat_diag": "SOM"
   },
   "data": [
-    {
-      "finess": "030780092",
-      "raison_sociale": "CH MOULINS YZEURE",
-      "categorie": "CH",
-      "periode": "M11",
-      "nb_journees": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_sejours": "1 à 10",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "nb_patients": "1 à 10",
-      "nb_actes_ambulatoires": null
-    },
     {
       "finess": "060780988",
       "raison_sociale": "CH DE CANNES",
@@ -310,7 +296,7 @@
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -436,7 +422,7 @@
       "finess": "970100277",
       "raison_sociale": "EPSM DE LA GUADELOUPE",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -465,12 +451,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "4986",
+      "nb_journees": "4990",
       "avq_physique": null,
       "avq_relationnel": null,
-      "nb_sejours": "685",
-      "sexe_ratio": "61%",
-      "age_moyen": "25.61",
+      "nb_sejours": "676",
+      "sexe_ratio": "61.3%",
+      "age_moyen": "25.57",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }
