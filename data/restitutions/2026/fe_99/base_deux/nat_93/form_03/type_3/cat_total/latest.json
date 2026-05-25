@@ -1,0 +1,57 @@
+{
+  "site_updated_at": "2026-05-21",
+  "extracted_at": "2026-05-25 23:46:13",
+  "search_context": {
+    "annee": "2026",
+    "tgeo": "fe",
+    "codegeo": "99",
+    "base": "deux",
+    "nat_pec": "93",
+    "form_act": "03",
+    "type_diag": "3"
+  },
+  "data": [
+    {
+      "finess": "160000501",
+      "raison_sociale": "CH CAMILLE CLAUDEL",
+      "categorie": "CH",
+      "periode": "M3",
+      "nb_journees": "386",
+      "avq_physique": null,
+      "avq_relationnel": null,
+      "nb_sejours": "33",
+      "sexe_ratio": "22.8%",
+      "age_moyen": "39.68",
+      "nb_patients": "33",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "310780390",
+      "raison_sociale": "CLINIQUE DE BEAUPUY",
+      "categorie": "PRIVÉ",
+      "periode": "M2",
+      "nb_journees": "259",
+      "avq_physique": "5.8",
+      "avq_relationnel": "5.57",
+      "nb_sejours": "11",
+      "sexe_ratio": "19.7%",
+      "age_moyen": "35.63",
+      "nb_patients": "11",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "Total",
+      "raison_sociale": "Total",
+      "categorie": "Total",
+      "periode": "Total",
+      "nb_journees": "645",
+      "avq_physique": "5.8",
+      "avq_relationnel": "5.57",
+      "nb_sejours": "44",
+      "sexe_ratio": "21.6%",
+      "age_moyen": "38.05",
+      "nb_patients": null,
+      "nb_actes_ambulatoires": null
+    }
+  ]
+}
