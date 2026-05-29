@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-05-21",
-  "extracted_at": "2026-05-25 22:21:39",
+  "site_updated_at": "2026-05-28",
+  "extracted_at": "2026-05-29 23:16:17",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -114,7 +114,7 @@
       "finess": "460780554",
       "raison_sociale": "CHS DE LEYME",
       "categorie": "PSPH/EBNL",
-      "periode": "M2",
+      "periode": "M3",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -150,6 +150,20 @@
       "sexe_ratio": "43.8%",
       "age_moyen": "37.56",
       "nb_patients": "16",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "530000371",
+      "raison_sociale": "CH LAVAL",
+      "categorie": "CH",
+      "periode": "M3",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
       "nb_actes_ambulatoires": null
     },
     {
@@ -394,7 +408,7 @@
       "finess": "930020920",
       "raison_sociale": "CLINIQUE PSYCHIATRIQUE DE L'ALLIANCE",
       "categorie": "PRIVÉ",
-      "periode": "M2",
+      "periode": "M3",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -436,7 +450,7 @@
       "finess": "950002568",
       "raison_sociale": "CLINIQUE D'ORGEMONT",
       "categorie": "PRIVÉ",
-      "periode": "M3",
+      "periode": "M4",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -479,12 +493,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "1881",
+      "nb_journees": "1954",
       "avq_physique": null,
       "avq_relationnel": null,
-      "nb_sejours": "271",
-      "sexe_ratio": "46.6%",
-      "age_moyen": "35.35",
+      "nb_sejours": "272",
+      "sexe_ratio": "46%",
+      "age_moyen": "35.37",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }
