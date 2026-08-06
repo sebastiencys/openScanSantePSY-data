@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-07-30",
-  "extracted_at": "2026-07-30 23:02:11",
+  "site_updated_at": "2026-08-06",
+  "extracted_at": "2026-08-06 22:19:40",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -12,20 +12,6 @@
     "cat_diag": "SOM"
   },
   "data": [
-    {
-      "finess": "170024194",
-      "raison_sociale": "GROUPEMENT HOSPITALIER DE LA ROCHELLE-RE-AUNIS",
-      "categorie": "CH",
-      "periode": "M5",
-      "nb_journees": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_sejours": "1 à 10",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "nb_patients": "1 à 10",
-      "nb_actes_ambulatoires": null
-    },
     {
       "finess": "250000452",
       "raison_sociale": "CHIC DE HAUTE-COMTÉ",
@@ -44,7 +30,7 @@
       "finess": "2A0000386",
       "raison_sociale": "CHS DE CASTELLUCCIO",
       "categorie": "CH",
-      "periode": "M5",
+      "periode": "M6",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -52,6 +38,20 @@
       "sexe_ratio": "NA",
       "age_moyen": "NA",
       "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
+      "finess": "330783614",
+      "raison_sociale": "HDJ DU PARC",
+      "categorie": "PSPH/EBNL",
+      "periode": "M6",
+      "nb_journees": "]0 ; 10]",
+      "avq_physique": null,
+      "avq_relationnel": null,
+      "nb_sejours": "22",
+      "sexe_ratio": "33.3%",
+      "age_moyen": "17",
+      "nb_patients": "20",
       "nb_actes_ambulatoires": null
     },
     {
@@ -100,7 +100,7 @@
       "finess": "590034740",
       "raison_sociale": "EPSM AGGLOMERATION LILLOISE LOMMELET",
       "categorie": "CH",
-      "periode": "M5",
+      "periode": "M6",
       "nb_journees": "NA",
       "avq_physique": "NA",
       "avq_relationnel": "NA",
@@ -213,12 +213,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "820",
+      "nb_journees": "818",
       "avq_physique": "4",
       "avq_relationnel": "4",
-      "nb_sejours": "249",
-      "sexe_ratio": "43.3%",
-      "age_moyen": "34.38",
+      "nb_sejours": "271",
+      "sexe_ratio": "43.4%",
+      "age_moyen": "34.53",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }
