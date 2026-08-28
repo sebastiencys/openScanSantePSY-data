@@ -1,0 +1,133 @@
+{
+  "finess": "300780384",
+  "raison_sociale": "CENTRE DE PROTECTION INFANTILE DE MONTAURY",
+  "geo": {
+    "raison_sociale": "CENTRE DE PROTECTION INFANTILE DE MONTAURY",
+    "categorie": "PSPH/EBNL",
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "30",
+    "dep_name": "GARD"
+  },
+  "site_updated_at": "2026-08-27",
+  "periodes": {
+    "2026-06": {
+      "deux": {
+        "91": {
+          "1": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "85.1%",
+              "age_moyen": "5.88",
+              "nb_patients": "31"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "85.1%",
+              "age_moyen": "5.88",
+              "nb_patients": "31"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "85.1%",
+              "age_moyen": "5.88",
+              "nb_patients": "31"
+            }
+          }
+        },
+        "94": {
+          "1": {
+            "999": {
+              "nb_journees": "428",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "23",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "81.5%",
+              "age_moyen": "5.87",
+              "nb_patients": "23"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "428",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "23",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "81.5%",
+              "age_moyen": "5.87",
+              "nb_patients": "23"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "428",
+              "avq_physique": null,
+              "avq_relationnel": null,
+              "nb_sejours": "23",
+              "nb_actes_ambulatoires": null,
+              "sexe_ratio": "81.5%",
+              "age_moyen": "5.87",
+              "nb_patients": "23"
+            }
+          }
+        },
+        "99": {
+          "1": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": "2477",
+              "sexe_ratio": "71.1%",
+              "age_moyen": "8.41",
+              "nb_patients": "277"
+            }
+          },
+          "2": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": "2477",
+              "sexe_ratio": "71.1%",
+              "age_moyen": "8.41",
+              "nb_patients": "277"
+            }
+          },
+          "3": {
+            "999": {
+              "nb_journees": "796",
+              "avq_physique": "10.49",
+              "avq_relationnel": "5.88",
+              "nb_sejours": "31",
+              "nb_actes_ambulatoires": "2477",
+              "sexe_ratio": "71.1%",
+              "age_moyen": "8.41",
+              "nb_patients": "277"
+            }
+          }
+        }
+      }
+    }
+  }
+}

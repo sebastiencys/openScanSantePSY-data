@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-08-20",
-  "extracted_at": "2026-08-20 20:55:02",
+  "site_updated_at": "2026-08-27",
+  "extracted_at": "2026-08-28 05:11:07",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -142,14 +142,14 @@
       "finess": "690780549",
       "raison_sociale": "CLINIQUE PSYCHIATRIQUE LYON-LUMIERE",
       "categorie": "PRIVÉ",
-      "periode": "M6",
-      "nb_journees": "285",
+      "periode": "M7",
+      "nb_journees": "336",
       "avq_physique": null,
       "avq_relationnel": null,
-      "nb_sejours": "231",
-      "sexe_ratio": "48.8%",
-      "age_moyen": "50.82",
-      "nb_patients": "227",
+      "nb_sejours": "263",
+      "sexe_ratio": "46.4%",
+      "age_moyen": "49.91",
+      "nb_patients": "257",
       "nb_actes_ambulatoires": null
     },
     {
@@ -195,6 +195,20 @@
       "nb_actes_ambulatoires": null
     },
     {
+      "finess": "920804465",
+      "raison_sociale": "ÉTABLISSEMENT PUBLIC DE SANTÉ ERASME",
+      "categorie": "CH",
+      "periode": "M7",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "970408589",
       "raison_sociale": "CHU DE LA REUNION",
       "categorie": "CHR/U",
@@ -213,12 +227,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "960",
+      "nb_journees": "1012",
       "avq_physique": "4",
       "avq_relationnel": "4",
-      "nb_sejours": "323",
-      "sexe_ratio": "43.3%",
-      "age_moyen": "34.84",
+      "nb_sejours": "356",
+      "sexe_ratio": "42.8%",
+      "age_moyen": "35.35",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }
