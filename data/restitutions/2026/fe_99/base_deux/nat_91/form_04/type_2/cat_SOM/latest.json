@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-03",
-  "extracted_at": "2026-09-03 23:29:57",
+  "site_updated_at": "2026-09-10",
+  "extracted_at": "2026-09-10 23:59:28",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -377,6 +377,20 @@
       "nb_actes_ambulatoires": null
     },
     {
+      "finess": "970202180",
+      "raison_sociale": "CH DE COLSON",
+      "categorie": "CH",
+      "periode": "M6",
+      "nb_journees": "601",
+      "avq_physique": null,
+      "avq_relationnel": null,
+      "nb_sejours": "13",
+      "sexe_ratio": "74%",
+      "age_moyen": "52.37",
+      "nb_patients": "13",
+      "nb_actes_ambulatoires": null
+    },
+    {
       "finess": "970408589",
       "raison_sociale": "CHU DE LA REUNION",
       "categorie": "CHR/U",
@@ -409,12 +423,12 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees": "13732",
+      "nb_journees": "14333",
       "avq_physique": "5.79",
       "avq_relationnel": "3.61",
-      "nb_sejours": "299",
-      "sexe_ratio": "46.5%",
-      "age_moyen": "42.8",
+      "nb_sejours": "312",
+      "sexe_ratio": "47.6%",
+      "age_moyen": "43.2",
       "nb_patients": null,
       "nb_actes_ambulatoires": null
     }
