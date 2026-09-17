@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-10",
-  "extracted_at": "2026-09-10 23:55:36",
+  "site_updated_at": "2026-09-17",
+  "extracted_at": "2026-09-17 23:43:02",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -26,21 +26,21 @@
       "finess": "020000295",
       "raison_sociale": "EPSMD DE L'AISNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "984",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1134",
       "sexe_ratio": "50.8%",
-      "age_moyen": "42.9",
-      "nb_patients": "882"
+      "age_moyen": "43",
+      "nb_patients": "1025"
     },
     {
       "finess": "030780092",
       "raison_sociale": "CH MOULINS YZEURE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "98",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "121",
       "sexe_ratio": "100%",
-      "age_moyen": "65",
-      "nb_patients": "91"
+      "age_moyen": "64.94",
+      "nb_patients": "117"
     },
     {
       "finess": "030780282",
@@ -86,11 +86,11 @@
       "finess": "060780988",
       "raison_sociale": "CH DE CANNES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "138",
-      "sexe_ratio": "63%",
-      "age_moyen": "11.04",
-      "nb_patients": "132"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "150",
+      "sexe_ratio": "62.7%",
+      "age_moyen": "10.97",
+      "nb_patients": "142"
     },
     {
       "finess": "060780996",
@@ -106,11 +106,11 @@
       "finess": "060785011",
       "raison_sociale": "CHU DE NICE",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "385",
-      "sexe_ratio": "63.4%",
-      "age_moyen": "25.08",
-      "nb_patients": "328"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "471",
+      "sexe_ratio": "62.8%",
+      "age_moyen": "25.16",
+      "nb_patients": "388"
     },
     {
       "finess": "070780317",
@@ -136,7 +136,7 @@
       "finess": "090781816",
       "raison_sociale": "CH ARIEGE COUSERANS",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -156,17 +156,17 @@
       "finess": "110786324",
       "raison_sociale": "A.S.M.",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "573",
-      "sexe_ratio": "31.1%",
-      "age_moyen": "56.12",
-      "nb_patients": "503"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "591",
+      "sexe_ratio": "30.8%",
+      "age_moyen": "56.16",
+      "nb_patients": "520"
     },
     {
       "finess": "120004528",
       "raison_sociale": "CH DE MILLAU",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -176,11 +176,11 @@
       "finess": "120780283",
       "raison_sociale": "CH SAINTE-MARIE",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "26",
-      "sexe_ratio": "23.1%",
-      "age_moyen": "51.58",
-      "nb_patients": "26"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "31",
+      "sexe_ratio": "19.4%",
+      "age_moyen": "52.23",
+      "nb_patients": "31"
     },
     {
       "finess": "130780554",
@@ -206,11 +206,11 @@
       "finess": "130786049",
       "raison_sociale": "AP-HM",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "490",
-      "sexe_ratio": "58.4%",
-      "age_moyen": "68.01",
-      "nb_patients": "436"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "541",
+      "sexe_ratio": "59%",
+      "age_moyen": "67.55",
+      "nb_patients": "480"
     },
     {
       "finess": "130786494",
@@ -226,21 +226,21 @@
       "finess": "130789274",
       "raison_sociale": "CH D'ARLES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "626",
-      "sexe_ratio": "48.1%",
-      "age_moyen": "32.2",
-      "nb_patients": "426"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "869",
+      "sexe_ratio": "43.5%",
+      "age_moyen": "33.18",
+      "nb_patients": "535"
     },
     {
       "finess": "130789316",
       "raison_sociale": "CH DE MARTIGUES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "44",
-      "sexe_ratio": "97.7%",
-      "age_moyen": "60.91",
-      "nb_patients": "43"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "54",
+      "sexe_ratio": "98.1%",
+      "age_moyen": "59.11",
+      "nb_patients": "53"
     },
     {
       "finess": "140000100",
@@ -266,7 +266,7 @@
       "finess": "170024194",
       "raison_sociale": "GROUPEMENT HOSPITALIER DE LA ROCHELLE-RE-AUNIS",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -276,17 +276,17 @@
       "finess": "170780050",
       "raison_sociale": "CH DE JONZAC",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "78",
-      "sexe_ratio": "2.6%",
-      "age_moyen": "38.79",
-      "nb_patients": "75"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "85",
+      "sexe_ratio": "3.5%",
+      "age_moyen": "40.12",
+      "nb_patients": "83"
     },
     {
       "finess": "170780175",
       "raison_sociale": "GH SAINTES - SAINT JEAN D'ANGELY",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -306,11 +306,11 @@
       "finess": "190000117",
       "raison_sociale": "ASSOCIATION DE GESTION DU CH PAYS EYGURANDE",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "516",
-      "sexe_ratio": "72.5%",
-      "age_moyen": "63.11",
-      "nb_patients": "350"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "628",
+      "sexe_ratio": "71%",
+      "age_moyen": "63.27",
+      "nb_patients": "422"
     },
     {
       "finess": "210780425",
@@ -366,31 +366,31 @@
       "finess": "230780074",
       "raison_sociale": "CH SAINT-VAURY",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "167",
-      "sexe_ratio": "25.7%",
-      "age_moyen": "50",
-      "nb_patients": "162"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "191",
+      "sexe_ratio": "25.1%",
+      "age_moyen": "50.71",
+      "nb_patients": "181"
     },
     {
       "finess": "240000083",
       "raison_sociale": "CH DE VAUCLAIRE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "254",
-      "sexe_ratio": "12.2%",
-      "age_moyen": "61.27",
-      "nb_patients": "242"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "290",
+      "sexe_ratio": "12.8%",
+      "age_moyen": "61.92",
+      "nb_patients": "275"
     },
     {
       "finess": "240000117",
       "raison_sociale": "CH DE PERIGUEUX",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "76",
-      "sexe_ratio": "94.7%",
-      "age_moyen": "40.95",
-      "nb_patients": "75"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "87",
+      "sexe_ratio": "90.8%",
+      "age_moyen": "43.06",
+      "nb_patients": "87"
     },
     {
       "finess": "250000015",
@@ -496,11 +496,11 @@
       "finess": "310780754",
       "raison_sociale": "CH GERARD MARCHANT",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "3043",
-      "sexe_ratio": "49.4%",
-      "age_moyen": "53",
-      "nb_patients": "2068"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "3458",
+      "sexe_ratio": "50%",
+      "age_moyen": "53.13",
+      "nb_patients": "2234"
     },
     {
       "finess": "310781406",
@@ -516,51 +516,51 @@
       "finess": "320780125",
       "raison_sociale": "CH DU GERS",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "19",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "20",
       "sexe_ratio": "0%",
       "age_moyen": "16",
-      "nb_patients": "19"
+      "nb_patients": "20"
     },
     {
       "finess": "330000779",
       "raison_sociale": "SOCIETE D'HYGIENE MENTALE D'AQUITAINE SHMA",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "254",
-      "sexe_ratio": "27.6%",
-      "age_moyen": "48.46",
-      "nb_patients": "140"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "288",
+      "sexe_ratio": "30.9%",
+      "age_moyen": "48.15",
+      "nb_patients": "158"
     },
     {
       "finess": "330781253",
       "raison_sociale": "CH DE LIBOURNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "120",
-      "sexe_ratio": "79.2%",
-      "age_moyen": "16.72",
-      "nb_patients": "110"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "121",
+      "sexe_ratio": "79.3%",
+      "age_moyen": "16.66",
+      "nb_patients": "114"
     },
     {
       "finess": "330781295",
       "raison_sociale": "CH DE CADILLAC",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "2570",
-      "sexe_ratio": "54.9%",
-      "age_moyen": "44.61",
-      "nb_patients": "2110"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "2902",
+      "sexe_ratio": "55.5%",
+      "age_moyen": "45.05",
+      "nb_patients": "2341"
     },
     {
       "finess": "340780477",
       "raison_sociale": "CHU MONTPELLIER",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "45",
-      "sexe_ratio": "51.1%",
-      "age_moyen": "40.82",
-      "nb_patients": "45"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "79",
+      "sexe_ratio": "46.8%",
+      "age_moyen": "45.24",
+      "nb_patients": "76"
     },
     {
       "finess": "350000022",
@@ -666,21 +666,21 @@
       "finess": "400011177",
       "raison_sociale": "CHIC MONT DE MARSAN ET PAYS DES SOURCES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "711",
-      "sexe_ratio": "26.4%",
-      "age_moyen": "42.93",
-      "nb_patients": "651"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "788",
+      "sexe_ratio": "26.9%",
+      "age_moyen": "43.22",
+      "nb_patients": "707"
     },
     {
       "finess": "400780193",
       "raison_sociale": "CH DAX - COTE D'ARGENT",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "19",
-      "sexe_ratio": "94.7%",
-      "age_moyen": "13.58",
-      "nb_patients": "18"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "21",
+      "sexe_ratio": "95.2%",
+      "age_moyen": "13.62",
+      "nb_patients": "21"
     },
     {
       "finess": "410000087",
@@ -706,11 +706,11 @@
       "finess": "420013831",
       "raison_sociale": "CH DU FOREZ",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "14",
-      "sexe_ratio": "64.3%",
-      "age_moyen": "13.14",
-      "nb_patients": "14"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "16",
+      "sexe_ratio": "62.5%",
+      "age_moyen": "13.06",
+      "nb_patients": "16"
     },
     {
       "finess": "420780033",
@@ -726,11 +726,11 @@
       "finess": "420784878",
       "raison_sociale": "CHU SAINT ETIENNE",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "351",
-      "sexe_ratio": "33.3%",
-      "age_moyen": "40.16",
-      "nb_patients": "329"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "395",
+      "sexe_ratio": "33.9%",
+      "age_moyen": "40.31",
+      "nb_patients": "371"
     },
     {
       "finess": "430000026",
@@ -806,21 +806,21 @@
       "finess": "460780554",
       "raison_sociale": "CHS DE LEYME",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "188",
-      "sexe_ratio": "17.6%",
-      "age_moyen": "53.48",
-      "nb_patients": "182"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "204",
+      "sexe_ratio": "18.1%",
+      "age_moyen": "53.56",
+      "nb_patients": "195"
     },
     {
       "finess": "470000381",
       "raison_sociale": "CH DEPARTEMENTAL DE LA CANDELIE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "203",
-      "sexe_ratio": "75.9%",
-      "age_moyen": "29.77",
-      "nb_patients": "199"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "214",
+      "sexe_ratio": "76.2%",
+      "age_moyen": "29.88",
+      "nb_patients": "211"
     },
     {
       "finess": "490000163",
@@ -976,31 +976,31 @@
       "finess": "570000133",
       "raison_sociale": "CH DE LORQUIN",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "45",
-      "sexe_ratio": "55.6%",
-      "age_moyen": "58.16",
-      "nb_patients": "45"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "47",
+      "sexe_ratio": "55.3%",
+      "age_moyen": "58.68",
+      "nb_patients": "47"
     },
     {
       "finess": "570000141",
       "raison_sociale": "CHS SARREGUEMINES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "31",
-      "sexe_ratio": "9.7%",
-      "age_moyen": "43.06",
-      "nb_patients": "30"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "35",
+      "sexe_ratio": "8.6%",
+      "age_moyen": "44.66",
+      "nb_patients": "34"
     },
     {
       "finess": "570000513",
       "raison_sociale": "EPSM METZ-JURY",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "74",
-      "sexe_ratio": "86.5%",
-      "age_moyen": "46.59",
-      "nb_patients": "74"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "82",
+      "sexe_ratio": "87.8%",
+      "age_moyen": "46.63",
+      "nb_patients": "82"
     },
     {
       "finess": "580780971",
@@ -1016,37 +1016,37 @@
       "finess": "590034740",
       "raison_sociale": "EPSM AGGLOMERATION LILLOISE LOMMELET",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1003",
-      "sexe_ratio": "54%",
-      "age_moyen": "44.18",
-      "nb_patients": "926"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1123",
+      "sexe_ratio": "53.9%",
+      "age_moyen": "44.31",
+      "nb_patients": "1011"
     },
     {
       "finess": "590780193",
       "raison_sociale": "CHRU DE LILLE",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "52",
-      "sexe_ratio": "94.2%",
-      "age_moyen": "41.31",
-      "nb_patients": "51"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "740",
+      "sexe_ratio": "92.3%",
+      "age_moyen": "40.23",
+      "nb_patients": "661"
     },
     {
       "finess": "590781605",
       "raison_sociale": "CH DE CAMBRAI",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "181",
-      "sexe_ratio": "26.5%",
-      "age_moyen": "27.25",
-      "nb_patients": "165"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "214",
+      "sexe_ratio": "26.6%",
+      "age_moyen": "26.86",
+      "nb_patients": "203"
     },
     {
       "finess": "590781803",
       "raison_sociale": "CH SAMBRE-AVESNOIS",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "48",
       "sexe_ratio": "0%",
       "age_moyen": "6",
@@ -1056,7 +1056,7 @@
       "finess": "590782165",
       "raison_sociale": "CH DE DENAIN",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1066,47 +1066,47 @@
       "finess": "590782207",
       "raison_sociale": "CH DE SAINT - AMAND",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "25",
-      "sexe_ratio": "8%",
-      "age_moyen": "36.84",
-      "nb_patients": "24"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "38",
+      "sexe_ratio": "5.3%",
+      "age_moyen": "41.53",
+      "nb_patients": "37"
     },
     {
       "finess": "590782215",
       "raison_sociale": "CH VALENCIENNES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1475",
-      "sexe_ratio": "62.5%",
-      "age_moyen": "39.38",
-      "nb_patients": "1043"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1704",
+      "sexe_ratio": "62.4%",
+      "age_moyen": "39.41",
+      "nb_patients": "1199"
     },
     {
       "finess": "590782660",
       "raison_sociale": "EPSM LILLE METROPOLE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1075",
-      "sexe_ratio": "56.1%",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1344",
+      "sexe_ratio": "57.6%",
       "age_moyen": "52.07",
-      "nb_patients": "988"
+      "nb_patients": "1215"
     },
     {
       "finess": "590782678",
       "raison_sociale": "EPSM DES FLANDRES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "571",
-      "sexe_ratio": "42.2%",
-      "age_moyen": "51.28",
-      "nb_patients": "543"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "647",
+      "sexe_ratio": "41.1%",
+      "age_moyen": "51.43",
+      "nb_patients": "610"
     },
     {
       "finess": "600100028",
       "raison_sociale": "CHIC DE CLERMONT",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1116,7 +1116,7 @@
       "finess": "600107049",
       "raison_sociale": "ASSOCIATION DE SANTÉ MENTALE LA NOUVELLE FORGE",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "16",
       "sexe_ratio": "0%",
       "age_moyen": "14",
@@ -1146,47 +1146,47 @@
       "finess": "620004838",
       "raison_sociale": "CENTRE LES MARRONNIERS AHNAC",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "60",
-      "sexe_ratio": "25%",
-      "age_moyen": "53.35",
-      "nb_patients": "58"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "73",
+      "sexe_ratio": "20.5%",
+      "age_moyen": "53.85",
+      "nb_patients": "69"
     },
     {
       "finess": "620100057",
       "raison_sociale": "CH D'ARRAS",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "254",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "309",
       "sexe_ratio": "0%",
-      "age_moyen": "57.04",
-      "nb_patients": "227"
+      "age_moyen": "57.08",
+      "nb_patients": "263"
     },
     {
       "finess": "620100073",
       "raison_sociale": "CH BAPAUME",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "64",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "77",
       "sexe_ratio": "0%",
-      "age_moyen": "65.83",
-      "nb_patients": "48"
+      "age_moyen": "65.7",
+      "nb_patients": "49"
     },
     {
       "finess": "620100677",
       "raison_sociale": "CH HENIN-BEAUMONT",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "410",
-      "sexe_ratio": "45.6%",
-      "age_moyen": "41.4",
-      "nb_patients": "358"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "413",
+      "sexe_ratio": "45.5%",
+      "age_moyen": "41.22",
+      "nb_patients": "360"
     },
     {
       "finess": "620100685",
       "raison_sociale": "CH DE LENS",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "29",
       "sexe_ratio": "100%",
       "age_moyen": "13.97",
@@ -1196,31 +1196,31 @@
       "finess": "620101287",
       "raison_sociale": "EPSM VAL DE LYS -ARTOIS",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1653",
-      "sexe_ratio": "45.3%",
-      "age_moyen": "45.78",
-      "nb_patients": "1508"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1901",
+      "sexe_ratio": "44.7%",
+      "age_moyen": "45.95",
+      "nb_patients": "1669"
     },
     {
       "finess": "620101337",
       "raison_sociale": "CH DE CALAIS",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "42",
-      "sexe_ratio": "71.4%",
-      "age_moyen": "35.5",
-      "nb_patients": "42"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "47",
+      "sexe_ratio": "66%",
+      "age_moyen": "36.62",
+      "nb_patients": "47"
     },
     {
       "finess": "620103432",
       "raison_sociale": "CH ARRONDISSEMENT DE MONTREUIL",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "23",
-      "sexe_ratio": "78.3%",
-      "age_moyen": "53.13",
-      "nb_patients": "23"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "48",
+      "sexe_ratio": "72.9%",
+      "age_moyen": "52.63",
+      "nb_patients": "41"
     },
     {
       "finess": "630780195",
@@ -1236,31 +1236,31 @@
       "finess": "630780989",
       "raison_sociale": "CHU CLERMONT-FERRAND",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "257",
-      "sexe_ratio": "49%",
-      "age_moyen": "19.61",
-      "nb_patients": "242"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "280",
+      "sexe_ratio": "50.4%",
+      "age_moyen": "19.7",
+      "nb_patients": "262"
     },
     {
       "finess": "640780862",
       "raison_sociale": "CH PYRENEES PSYCHIATRIE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "221",
-      "sexe_ratio": "75.6%",
-      "age_moyen": "31.73",
-      "nb_patients": "206"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "256",
+      "sexe_ratio": "77.3%",
+      "age_moyen": "33.1",
+      "nb_patients": "240"
     },
     {
       "finess": "650780174",
       "raison_sociale": "CH LANNEMEZAN",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "229",
-      "sexe_ratio": "60.3%",
-      "age_moyen": "22.79",
-      "nb_patients": "221"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "247",
+      "sexe_ratio": "61.5%",
+      "age_moyen": "23.06",
+      "nb_patients": "235"
     },
     {
       "finess": "670780055",
@@ -1316,11 +1316,11 @@
       "finess": "690780101",
       "raison_sociale": "CH LE VINATIER",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "563",
-      "sexe_ratio": "36.1%",
-      "age_moyen": "64.05",
-      "nb_patients": "542"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "623",
+      "sexe_ratio": "36.6%",
+      "age_moyen": "64.01",
+      "nb_patients": "598"
     },
     {
       "finess": "690780119",
@@ -1356,11 +1356,11 @@
       "finess": "710781329",
       "raison_sociale": "EPSM 71",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "240",
-      "sexe_ratio": "37.9%",
-      "age_moyen": "56.16",
-      "nb_patients": "235"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "265",
+      "sexe_ratio": "37%",
+      "age_moyen": "56.71",
+      "nb_patients": "254"
     },
     {
       "finess": "720000058",
@@ -1396,41 +1396,41 @@
       "finess": "740785035",
       "raison_sociale": "E.P.S.M. VALLEE D'ARVE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1494",
-      "sexe_ratio": "67.8%",
-      "age_moyen": "35.24",
-      "nb_patients": "1166"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1668",
+      "sexe_ratio": "67.9%",
+      "age_moyen": "35.81",
+      "nb_patients": "1306"
     },
     {
       "finess": "750062036",
       "raison_sociale": "GROUPEMENT HOSPITALIER UNIVERSITAIRE PARIS-PSYCHIATRIE ET NEUROSCIENCES",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "3066",
-      "sexe_ratio": "41.6%",
-      "age_moyen": "55.75",
-      "nb_patients": "2733"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "3208",
+      "sexe_ratio": "41.7%",
+      "age_moyen": "55.88",
+      "nb_patients": "2862"
     },
     {
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "321",
-      "sexe_ratio": "39.6%",
-      "age_moyen": "55.34",
-      "nb_patients": "318"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "392",
+      "sexe_ratio": "39.5%",
+      "age_moyen": "55.66",
+      "nb_patients": "383"
     },
     {
       "finess": "750720914",
       "raison_sociale": "ASM 13",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "150",
-      "sexe_ratio": "90.7%",
-      "age_moyen": "11.02",
-      "nb_patients": "144"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "164",
+      "sexe_ratio": "90.2%",
+      "age_moyen": "12.28",
+      "nb_patients": "159"
     },
     {
       "finess": "760780270",
@@ -1446,11 +1446,11 @@
       "finess": "760780726",
       "raison_sociale": "GROUPEMENT HOSPITALIER DU HAVRE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1893",
-      "sexe_ratio": "75.3%",
-      "age_moyen": "46.68",
-      "nb_patients": "1540"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "2334",
+      "sexe_ratio": "76.8%",
+      "age_moyen": "47.57",
+      "nb_patients": "1885"
     },
     {
       "finess": "770021145",
@@ -1466,21 +1466,21 @@
       "finess": "770021152",
       "raison_sociale": "CH SUD SEINE ET MARNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "393",
-      "sexe_ratio": "77.9%",
-      "age_moyen": "23.5",
-      "nb_patients": "354"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "440",
+      "sexe_ratio": "76.6%",
+      "age_moyen": "23.48",
+      "nb_patients": "374"
     },
     {
       "finess": "770110054",
       "raison_sociale": "GRPE HOSPITALIER DU SUD ILE DE FRANCE",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "49",
       "sexe_ratio": "77.6%",
       "age_moyen": "41.51",
-      "nb_patients": "46"
+      "nb_patients": "49"
     },
     {
       "finess": "770110070",
@@ -1506,7 +1506,7 @@
       "finess": "780001236",
       "raison_sociale": "CHIC DE POISSY ST-GERMAIN",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1536,81 +1536,81 @@
       "finess": "780140059",
       "raison_sociale": "CH THEOPHILE ROUSSEL",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "449",
-      "sexe_ratio": "47.4%",
-      "age_moyen": "35.27",
-      "nb_patients": "384"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "533",
+      "sexe_ratio": "46.9%",
+      "age_moyen": "36.43",
+      "nb_patients": "469"
     },
     {
       "finess": "790000012",
       "raison_sociale": "CH DE NIORT",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1 à 10",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "nb_patients": "1 à 10"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "11",
+      "sexe_ratio": "54.5%",
+      "age_moyen": "30.18",
+      "nb_patients": "11"
     },
     {
       "finess": "790006654",
       "raison_sociale": "CHNDS",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "15",
-      "sexe_ratio": "46.7%",
-      "age_moyen": "31.13",
-      "nb_patients": "15"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "18",
+      "sexe_ratio": "50%",
+      "age_moyen": "32",
+      "nb_patients": "17"
     },
     {
       "finess": "800000028",
       "raison_sociale": "CH D'ABBEVILLE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "17",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "26",
       "sexe_ratio": "100%",
-      "age_moyen": "11",
-      "nb_patients": "17"
+      "age_moyen": "11.04",
+      "nb_patients": "26"
     },
     {
       "finess": "800000093",
       "raison_sociale": "CH DE PERONNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "63",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "72",
       "sexe_ratio": "0%",
-      "age_moyen": "49.76",
-      "nb_patients": "58"
+      "age_moyen": "49.79",
+      "nb_patients": "64"
     },
     {
       "finess": "800000119",
       "raison_sociale": "ET PUBLIC DE SANTÉ MENTALE DE LA SOMME",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "190",
-      "sexe_ratio": "44.2%",
-      "age_moyen": "36.76",
-      "nb_patients": "178"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "208",
+      "sexe_ratio": "43.8%",
+      "age_moyen": "38.14",
+      "nb_patients": "200"
     },
     {
       "finess": "810100008",
       "raison_sociale": "CHS PIERRE JAMET",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "478",
-      "sexe_ratio": "86%",
-      "age_moyen": "50.97",
-      "nb_patients": "441"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "554",
+      "sexe_ratio": "84.3%",
+      "age_moyen": "51.5",
+      "nb_patients": "496"
     },
     {
       "finess": "820000016",
       "raison_sociale": "CH MONTAUBAN",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "186",
-      "sexe_ratio": "45.2%",
-      "age_moyen": "46.14",
-      "nb_patients": "180"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "214",
+      "sexe_ratio": "49.1%",
+      "age_moyen": "47.72",
+      "nb_patients": "203"
     },
     {
       "finess": "830100566",
@@ -1656,7 +1656,7 @@
       "finess": "860780048",
       "raison_sociale": "CH HENRI LABORIT",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1666,11 +1666,11 @@
       "finess": "870002466",
       "raison_sociale": "CH ESQUIROL",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "1064",
-      "sexe_ratio": "48.3%",
-      "age_moyen": "45.36",
-      "nb_patients": "996"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "1154",
+      "sexe_ratio": "48.7%",
+      "age_moyen": "45.19",
+      "nb_patients": "1056"
     },
     {
       "finess": "880780119",
@@ -1696,21 +1696,21 @@
       "finess": "910002773",
       "raison_sociale": "CH SUD-FRANCILIEN",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "63",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "72",
       "sexe_ratio": "100%",
-      "age_moyen": "38.13",
-      "nb_patients": "62"
+      "age_moyen": "38.24",
+      "nb_patients": "70"
     },
     {
       "finess": "910110055",
       "raison_sociale": "GROUPEMENT HOSPITALIER NORD ESSONNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "426",
-      "sexe_ratio": "21.4%",
-      "age_moyen": "44.46",
-      "nb_patients": "370"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "560",
+      "sexe_ratio": "17.7%",
+      "age_moyen": "45.19",
+      "nb_patients": "478"
     },
     {
       "finess": "910140029",
@@ -1726,7 +1726,7 @@
       "finess": "920110020",
       "raison_sociale": "CASH DE NANTERRE",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1746,11 +1746,11 @@
       "finess": "920140027",
       "raison_sociale": "CLINIQUE FSEF SCEAUX",
       "categorie": "PSPH/EBNL",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "254",
+      "periode": "M7",
+      "nb_actes_ambulatoires": "304",
       "sexe_ratio": "100%",
-      "age_moyen": "21.07",
-      "nb_patients": "153"
+      "age_moyen": "21.15",
+      "nb_patients": "183"
     },
     {
       "finess": "920804465",
@@ -1776,27 +1776,27 @@
       "finess": "930140025",
       "raison_sociale": "EPS VILLE-EVRARD",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "4455",
-      "sexe_ratio": "45.7%",
-      "age_moyen": "46.38",
-      "nb_patients": "3542"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "4984",
+      "sexe_ratio": "45.5%",
+      "age_moyen": "46.25",
+      "nb_patients": "3868"
     },
     {
       "finess": "940016819",
       "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "429",
-      "sexe_ratio": "50.8%",
-      "age_moyen": "34.7",
-      "nb_patients": "410"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "434",
+      "sexe_ratio": "51.4%",
+      "age_moyen": "34.66",
+      "nb_patients": "418"
     },
     {
       "finess": "940110018",
       "raison_sociale": "CHIC DE CRETEIL",
       "categorie": "CH",
-      "periode": "M6",
+      "periode": "M7",
       "nb_actes_ambulatoires": "1 à 10",
       "sexe_ratio": "NA",
       "age_moyen": "NA",
@@ -1806,11 +1806,11 @@
       "finess": "940140049",
       "raison_sociale": "GH FONDATION VALLEE-PAUL GUIRAUD",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "477",
-      "sexe_ratio": "47.8%",
-      "age_moyen": "54.22",
-      "nb_patients": "458"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "572",
+      "sexe_ratio": "48.1%",
+      "age_moyen": "53.62",
+      "nb_patients": "539"
     },
     {
       "finess": "950013870",
@@ -1836,11 +1836,11 @@
       "finess": "950110049",
       "raison_sociale": "CH DE GONESSE",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "431",
-      "sexe_ratio": "53.4%",
-      "age_moyen": "14.97",
-      "nb_patients": "380"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "525",
+      "sexe_ratio": "52.8%",
+      "age_moyen": "15.02",
+      "nb_patients": "446"
     },
     {
       "finess": "950110080",
@@ -1856,11 +1856,11 @@
       "finess": "950140012",
       "raison_sociale": "EPS - ROGER PREVOT",
       "categorie": "CH",
-      "periode": "M6",
-      "nb_actes_ambulatoires": "156",
-      "sexe_ratio": "73.1%",
-      "age_moyen": "35.44",
-      "nb_patients": "148"
+      "periode": "M7",
+      "nb_actes_ambulatoires": "184",
+      "sexe_ratio": "76.1%",
+      "age_moyen": "36.8",
+      "nb_patients": "178"
     },
     {
       "finess": "970100277",
@@ -1907,10 +1907,10 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_actes_ambulatoires": "103596",
-      "sexe_ratio": "47.8%",
-      "age_moyen": "46.29",
-      "nb_patients": "80909"
+      "nb_actes_ambulatoires": "109479",
+      "sexe_ratio": "48.3%",
+      "age_moyen": "46.28",
+      "nb_patients": "85290"
     }
   ]
 }
