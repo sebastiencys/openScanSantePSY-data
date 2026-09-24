@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-17",
-  "extracted_at": "2026-09-18 00:36:21",
+  "site_updated_at": "2026-09-24",
+  "extracted_at": "2026-09-25 00:20:29",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -12,6 +12,20 @@
     "cat_diag": "RRR"
   },
   "data": [
+    {
+      "finess": "310780390",
+      "raison_sociale": "CLINIQUE DE BEAUPUY",
+      "categorie": "PRIVÉ",
+      "periode": "M7",
+      "nb_journees": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_sejours": "1 à 10",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "nb_patients": "1 à 10",
+      "nb_actes_ambulatoires": null
+    },
     {
       "finess": "390780476",
       "raison_sociale": "CHS SAINT YLIE JURA",
@@ -90,7 +104,7 @@
       "nb_journees": "826",
       "avq_physique": "5.14",
       "avq_relationnel": "3.54",
-      "nb_sejours": "58",
+      "nb_sejours": "59",
       "sexe_ratio": "92.5%",
       "age_moyen": "39.39",
       "nb_patients": null,
